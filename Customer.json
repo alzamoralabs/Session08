@@ -1,0 +1,50 @@
+[
+    {
+        "nombre_usuario": "Juan Pérez",
+        "mascota": {
+            "nombre": "Rocky",
+            "raza": "Labrador Retriever",
+            "edad": "2 años 3 meses",
+            "sexo": "machito",
+            "condiciones_salud_previas": [
+                "alergia a pollo",
+                "operación de esterilización"
+            ]
+        }
+    },
+    {
+        "nombre_usuario": "María López",
+        "mascota": {
+            "nombre": "Luna",
+            "raza": "Poodle",
+            "edad": "5 años",
+            "sexo": "hembrita",
+            "condiciones_salud_previas": [
+                "ceguera parcial"
+            ]
+        }
+    },
+    {
+        "nombre_usuario": "Carlos Ramírez",
+        "mascota": {
+            "nombre": "Max",
+            "raza": "Bulldog Francés",
+            "edad": "8 meses",
+            "sexo": "machito",
+            "condiciones_salud_previas": []
+        }
+    },
+    {
+        "nombre_usuario": "Ana Torres",
+        "mascota": {
+            "nombre": "Canela",
+            "raza": "Beagle",
+            "edad": "3 años 6 meses",
+            "sexo": "hembrita",
+            "condiciones_salud_previas": [
+                "alergia a pulgas",
+                "operación de pata trasera"
+            ]
+        }
+    }
+]
